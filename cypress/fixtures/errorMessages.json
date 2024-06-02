@@ -1,0 +1,18 @@
+{
+  "signupErrorMessage": {
+    "common": "User validation failed:",
+    "firstName": "firstName: Path `firstName` is required.",
+    "lastName": "lastName: Path `lastName` is required.",
+    "email": "email: Email is invalid,",
+    "password": "password: Path `password` is required.",
+    "emailInUse": "Email address is already in use"
+  },
+  "loginErrorMessage": {
+    "wrongData": "Incorrect username or password"
+  },
+  "contactListErrorMessage": {
+    "common": "Contact validation failed:",
+    "firstName": "firstName: Path `firstName` is required.",
+    "lastName": " lastName: Path `lastName` is required."
+  }
+}
