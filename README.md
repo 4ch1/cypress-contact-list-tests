@@ -1,4 +1,5 @@
-# This repository contains automated tests for the Contact List Manager App.
+# Repository Purpose
+This repository contains automated tests for the Contact List Manager App.
 
 ### Download
 
