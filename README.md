@@ -1,12 +1,11 @@
-# What is this repository for?
-Automation  tests for Contact List Manager App
+#This repository contains automated tests for the Contact List Manager App.
 
 ### Download
 
 ``git clone https://github.com/4ch1/aurora.git``
-### How to run tests
-open terminal go to root of project and  do follow steps:
+### How to Run Tests
+Open your terminal and navigate to the root directory of the project.
 
-1) run ``npm install`` in terminal 
-2) run ``npm run cypress:run`` or you may run from package.json
+1) run ``npm install``
+2) run ``npm run cypress:run`` or you may run it from package.json
 
